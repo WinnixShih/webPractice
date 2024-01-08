@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(213, 98, 190);
+    font-family:'Open Sans',sans-serif;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    background-image: url("skylight.jpg");
+}
+
+img {
+    width: 200px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+}
+
+h2 {
+    background-color: darkgreen;
+    color: lightyellow;
+    font-size: 40px;
+}
+
+ul {
+    background-color: burlywood;
+    opacity: 0.8;
+    color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
